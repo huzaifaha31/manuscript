@@ -1,5 +1,5 @@
 {
-  "name": "Manuscript Exploration",
-  "description": "Malay Manuscript",
+  "name": "Malay Medical Manuscript Exploration",
+  "description": "This website is intended solely for the educational exploration of traditional knowledge contained in Malay medical manuscripts and is not meant to be practiced for the treatment of illness. Users are advised to consult qualified medical professionals for valid medical advice.",
   "requestFramePermissions": []
 }

@@ -33,7 +33,7 @@ const Hero: React.FC<HeroProps> = ({ onStart }) => {
         </h1>
 
         <p className="font-serif text-xl md:text-2xl text-manuscript-paper/90 mb-10 max-w-3xl mx-auto leading-relaxed drop-shadow-md">
-          Explore a curated archive of ailments and remedies transcribed from centuries-old Malay manuscripts.
+          Explore a digital archive of Malay Medical Manuscripts. Discover centuries-old remedies, herbal ingredients, and spiritual practices used to treat ailments.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

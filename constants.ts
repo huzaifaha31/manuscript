@@ -7,7 +7,7 @@ export const APP_NAME = "Malay Medical Manuscript Exploration";
 // ==========================================
 
 // 1. The main big image on the home page
-export const HERO_IMAGE_URL = 'https://images.unsplash.com/photo-1461360370896-922624d12aa1?auto=format&fit=crop&w=800&q=80';
+export const HERO_IMAGE_URL = 'https://huzaitx.wordpress.com/wp-content/uploads/2025/12/untitled-design-8.png';
 
 // 2. The background texture pattern
 export const BACKGROUND_PATTERN_URL = 'https://www.transparenttextures.com/patterns/cream-paper.png';
@@ -149,7 +149,7 @@ export const REMEDIES: Remedy[] = [
     ],
     preparationMethod: 'Crush the clove and garlic into a paste. Mix with a pinch of salt.',
     methodOfUse: 'Place the paste directly into the cavity or on the gum of the aching tooth.',
-    sourceManuscript: 'MSS 2999, Kitab Tib',
+    sourceManuscript: 'MSS 2199, Kitab Tib',
     imageUrl: 'https://neuroversiti.com/wp-content/uploads/2025/05/sakit-gigi.jpg',
   },
   {
@@ -178,7 +178,7 @@ export const REMEDIES: Remedy[] = [
     ],
     preparationMethod: 'Soak rice, then grind with turmeric and shallot into a thick paste.',
     methodOfUse: 'Apply around the boil (avoiding the "eye" or center) to draw out pus.',
-    sourceManuscript: 'MSS 2999, Kitab Tib',
+    sourceManuscript: 'MSS 2199, Kitab Tib',
     imageUrl: 'https://media.siraplimau.com/2023/03/Collage-Maker-31-Mar-2023-02-25-PM-2631.jpg',
   },
   {
@@ -238,7 +238,7 @@ export const REMEDIES: Remedy[] = [
     preparationMethod: 'Boil the root with crushed pepper and garlic.',
     methodOfUse: 'Drink the decoction morning and night.',
     spiritualElements: 'Recite "Bismillah ash-Shafi" 7 times.',
-    sourceManuscript: 'MSS 2999, Kitab Tib',
+    sourceManuscript: 'MSS 2199, Kitab Tib',
     imageUrl: 'https://klinikbamed.com/wp-content/uploads/2024/07/Seputar-Demam-pada-Anak-Orang-Tua-Wajib-Tahu-scaled.jpg',
   },
   {
@@ -268,7 +268,7 @@ export const REMEDIES: Remedy[] = [
     ],
     preparationMethod: 'Mix tamarind pulp with salt to form a thick paste.',
     methodOfUse: 'Apply directly to the bite area to neutralize toxins.',
-    sourceManuscript: 'MSS 2999, Kitab Tib',
+    sourceManuscript: 'MSS 2199, Kitab Tib',
     imageUrl: 'https://ai-care.id/photos/Healthpedia%20Kegawatdaruratan/61d6a274cff5e.jpg',
   },
   {
@@ -298,7 +298,7 @@ export const REMEDIES: Remedy[] = [
     ],
     preparationMethod: 'Boil the root slices for 1 hour.',
     methodOfUse: 'Drink the water mixed with a spoonful of honey.',
-    sourceManuscript: 'MSS 2999, Kitab Tib',
+    sourceManuscript: 'MSS 2199, Kitab Tib',
     imageUrl: 'https://i0.wp.com/ciputrahospital.com/wp-content/uploads/2024/11/shutterstock_1577217646-1.jpg?resize=1024%2C683&ssl=1',
   },
   {
@@ -314,7 +314,7 @@ export const REMEDIES: Remedy[] = [
     preparationMethod: 'Wrap ingredients in a small black cloth (Bunjut).',
     methodOfUse: 'Pin securely to the baby\'s clothing or cradle.',
     spiritualElements: 'Recite "Al-Falaq" and "An-Nas" over the child.',
-    sourceManuscript: 'MSS 2999, Kitab Tib',
+    sourceManuscript: 'MSS 2199, Kitab Tib',
     imageUrl: 'https://cdn.motherhood.com.my/wp-content/uploads/sites/2/2022/06/13182237/apa-itu-sawan-tangis.png',
   },
   {
@@ -342,7 +342,7 @@ export const REMEDIES: Remedy[] = [
     ],
     preparationMethod: 'Roast the dried liver and grind into powder. Mix with honey.',
     methodOfUse: 'Swallow a teaspoon of the mixture daily.',
-    sourceManuscript: 'MSS 2999, Kitab Tib',
+    sourceManuscript: 'MSS 2199, Kitab Tib',
     imageUrl: 'https://www.who.int/images/default-source/departments/ncds/chronic-respiratory-diseases/asthma-feature-story-boy.tmb-1200v.jpg?Culture=en&sfvrsn=4d9f2bee_6',
   },
   {
@@ -384,7 +384,7 @@ export const REMEDIES: Remedy[] = [
     ],
     preparationMethod: 'Warm the oil with crushed garlic.',
     methodOfUse: 'Drop 1-2 drops of the cooled oil into the ear.',
-    sourceManuscript: 'MSS 2999, Kitab Tib',
+    sourceManuscript: 'MSS 2199, Kitab Tib',
     imageUrl: 'https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2022/06/24055527/Benarkah-Sakit-Telinga-Tanda-Mengalami-Stroke_.jpg',
   },
   {
@@ -414,7 +414,7 @@ export const REMEDIES: Remedy[] = [
     ],
     preparationMethod: 'Eat ripe papaya and drink plenty of warm water.',
     methodOfUse: 'Consumue in the morning before breakfast.',
-    sourceManuscript: 'MSS 2999, Kitab Tib',
+    sourceManuscript: 'MSS 2199, Kitab Tib',
     imageUrl: 'https://assets.hmetro.com.my/images/articles/sembelit01.jpg_1503158446.jpg',
   },
   {
@@ -442,7 +442,7 @@ export const REMEDIES: Remedy[] = [
     ],
     preparationMethod: 'Slice bitter gourd and dry it. Boil as tea.',
     methodOfUse: 'Drink a cup daily.',
-    sourceManuscript: 'MSS 2999, Kitab Tib',
+    sourceManuscript: 'MSS 2199, Kitab Tib',
     imageUrl: 'https://vitamin.my/wp-content/uploads/2023/08/petua-turunkan-gula-dalam-darah-1.png',
   },
   {
@@ -485,7 +485,7 @@ export const REMEDIES: Remedy[] = [
     ],
     preparationMethod: 'Chew the Saga leaves or gargle with coconut milk.',
     methodOfUse: 'Apply twice daily.',
-    sourceManuscript: 'MSS 2999, Kitab Tib',
+    sourceManuscript: 'MSS 2199, Kitab Tib',
     imageUrl: 'https://media.healthdirect.org.au/images/inline/original/mouth-sores-and-ulcers-5e0c8e.jpg',
   }
 ];

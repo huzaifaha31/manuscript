@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { Leaf } from 'lucide-react';
+import { Leaf, AlertTriangle } from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
@@ -24,7 +23,7 @@ const Footer: React.FC = () => {
             "Preserving the healing wisdom of ancestors through digital documentation and modern accessibility."
           </p>
           
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 w-full border-t border-manuscript-paper/10 pt-8 mb-8">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 w-full border-t border-manuscript-paper/10 pt-8 mb-8">
             <div className="text-sm">
               <h3 className="font-sans font-bold uppercase tracking-widest text-manuscript-gold mb-2">Institution</h3>
               <p>Faculty of Quranic and Sunnah Studies (FPQS)</p>
@@ -34,6 +33,14 @@ const Footer: React.FC = () => {
               <h3 className="font-sans font-bold uppercase tracking-widest text-manuscript-gold mb-2">Sources</h3>
               <p>MSS 2999 (Kitab Tib)</p>
               <p>MSS 2199 (Traditional Malay Remedies)</p>
+            </div>
+            <div className="text-sm px-4">
+              <h3 className="font-sans font-bold uppercase tracking-widest text-manuscript-gold mb-2 flex items-center justify-center gap-2">
+                <AlertTriangle size={14} /> Disclaimer
+              </h3>
+              <p className="text-xs text-manuscript-paper/60 leading-relaxed italic">
+                This website is intended solely for educational exploration and is not meant for medical practice. Consult qualified professionals for medical advice.
+              </p>
             </div>
           </div>
           
